@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ParaDonusturucu</string>
+    <string name="donustur">Dönüştür</string>
+    <string name="paraMiktariHint">Para Miktarı</string>
+</resources>
