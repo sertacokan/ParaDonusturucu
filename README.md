@@ -1,3 +1,3 @@
-# ParaDonusturucu(Depcrated API)
+# ParaDonusturucu(**Deprecated API**)
 
   Simple Currency Converter App 
